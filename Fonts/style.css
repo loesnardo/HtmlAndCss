@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Roboto-Ligth;
+    src: url(fonts/Roboto-Light.ttf);
+}
+@font-face{
+    src: url(fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+    font-family: OpenSans;
+}
+h1{
+    font-family: Roboto-Ligth, verdana, arial;
+}
+p{
+    font-family: OpenSans, "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
